@@ -1,6 +1,6 @@
 # Exercise 19 — Notification Stack
 
-[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-19-notification-stack/) · [HTML source](index.html) · [CSS source](styles.css)
+[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-19-notification-stack/) · [HTML source](index.html) · [CSS source](styles.css)
 
 ![Rendered preview](preview.png)
 
