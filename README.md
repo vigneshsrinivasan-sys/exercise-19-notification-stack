@@ -1,6 +1,6 @@
 # Exercise 19 — Notification Stack
 
-[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-19-notification-stack/) · [View source](https://github.com/vigneshsrinivasan-sys/exercise-19-notification-stack)
+[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-19-notification-stack/) · [HTML source](index.html) · [CSS source](styles.css)
 
 ![Rendered preview](preview.png)
 
@@ -25,4 +25,3 @@ A stack of notification rows uses repeated structure, status color, borders, and
 ## Sequence
 
 **Exercise 19 of 27** · Independent practice
-
