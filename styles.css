@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.notifications {
+  margin: 24px 24px;
+}
+
+.alert {
+  padding: 16px;
+  background-color: #faf9f6;
+  border-bottom: 2px solid gray;
+}
+
+.alert h3 {
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 8px;
+}
+
+.alert p {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.unread h3 {
+  font-weight: 600;
+}
+
+.unread p {
+  font-weight: 600;
+}
+
+.unread {
+  background-color: #f9f9fa;
+  border-bottom: 2px solid red;
+}
+
+.alert:hover {
+  background-color: #f9f9fa;
+  cursor: pointer;
+}
+
+hr {
+  margin: 0;
+}
+
+.unread + hr {
+  border: 2;
+  height: 1px;
+  background-color: red;
+}
