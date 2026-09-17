@@ -24,4 +24,4 @@ A stack of notification rows uses repeated structure, status color, borders, and
 
 ## Sequence
 
-**Exercise 19 of 27** · Independent practice
+**Exercise 19** · Independent practice
